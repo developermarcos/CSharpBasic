@@ -1,5 +1,9 @@
 ﻿using System;
 
+//• Alguns países medem temperaturas em graus Celsius, e outros em graus
+//Fahrenheit. Faça umalgoritmo para ler uma temperatura Celsius e imprimi-Ia em
+//Fahrenheit (pesquise como fazer estetipo de conversão).
+
 namespace CelsiusToFahrenheit.ConsoleApp
 {
     internal class Program
